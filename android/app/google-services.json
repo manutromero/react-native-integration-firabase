@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "332310551650",
+    "firebase_url": "https://apphistoriabogota.firebaseio.com",
+    "project_id": "apphistoriabogota",
+    "storage_bucket": "apphistoriabogota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332310551650:android:8b35ddf4f5b09938afc53b",
+        "android_client_info": {
+          "package_name": "com.manuelromero.historiabogota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332310551650-uurh64piaqdqr74flnkliepii97jv0u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Kn-uzJ7ysYQuGO-CA06H9IN5kb4wdaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332310551650-uurh64piaqdqr74flnkliepii97jv0u2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332310551650-7esoel8ujfpj2aim90r0uaucloj0ccd8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.manuelromero.historiabogota"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
